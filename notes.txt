@@ -1,0 +1,13 @@
+ <p class="">
+                    <span><i class="fa-solid fa-location-dot"></i></span> &nbsp;
+                    <span class="accordion_body_text merriweather-regular">327/3 G.T.Road, Baidyabati (Opp. of Axis Bank),
+                      Hooghly, West Bengal,India-712222</span>
+                  </p>
+                  <p>
+                    <span><i class="fa-solid fa-phone"></i></span> &nbsp;
+                    <span class="merriweather-regular">+91 8697185501 (Director)</span>
+                  </p>
+                  <p>
+                    <span><i class="fa-solid fa-envelope"></i></span> &nbsp;
+                    <span><a href=" enquiry@ashmamotors.com" class="merriweather-regular">enquiry@ashmamotors.com</a></span>
+                  </p>
